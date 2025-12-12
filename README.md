@@ -7,9 +7,9 @@ The main dataset used is located at https://www.kaggle.com/datasets/rounakbanik/
 ---
 
 ## The Team
-* **Timothée ANDRIAMALALA** 
-* **Maeva ANDRIAMANIRAKA** 
-* **Kenza HASSANI** 
+* **Timothée ANDRIAMALALA**
+* **Maeva ANDRIAMANIRAKA**
+* **Kenza HASSANI**
 
 ## Project Overview
 [cite_start]The film industry is a high-risk sector where producing a movie often feels like a gamble [cite: 8-9]. [cite_start]The goal of this project is to transition from a "casino" approach to a data-driven decision-making process[cite: 12].
@@ -65,8 +65,8 @@ Used to predict "Hit" vs "Flop". This is the primary business tool.
 
 ## Simulation
 The project includes a logic (`predict_my_movie`) to simulate scenarios:
-* [cite_start]*Input:* "Action movie released in July" $\rightarrow$ **Potential Success**[cite: 357].
-* [cite_start]*Input:* "Horror movie released in January" $\rightarrow$ **High Risk (Flop)**[cite: 358].
+* [cite_start]*Input:* "Action movie released in July" -> **Potential Success**[cite: 357].
+* [cite_start]*Input:* "Horror movie released in January" -> **High Risk (Flop)**[cite: 358].
 
 ---
-*Based on the Machine Learning Project Report: "Prédiction du Succès d'un Film" (12/12/25).*
+*Based on the Machine Learning Project Report: "Prédiction du Succès d'un Film" (13/12/25).*
