@@ -11,7 +11,7 @@ The main dataset used is located at https://www.kaggle.com/datasets/rounakbanik/
 * **Maeva ANDRIAMANIRAKA** 
 * **Kenza HASSANI** 
 
-## 📄 Project Overview
+## Project Overview
 [cite_start]The film industry is a high-risk sector where producing a movie often feels like a gamble [cite: 8-9]. [cite_start]The goal of this project is to transition from a "casino" approach to a data-driven decision-making process[cite: 12].
 
 We developed an AI tool capable of:
